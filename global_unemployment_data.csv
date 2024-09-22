@@ -125,7 +125,7 @@ Niger,Unemployment rate by sex and age,Male,25+,Adults,0.469,0.532,0.526,0.544,0
 Nigeria,Unemployment rate by sex and age,Male,25+,Adults,3.276,3.46,3.832,4.155,4.344,4.386,4.413,3.593,1.975,1.813,1.769
 North Macedonia,Unemployment rate by sex and age,Male,25+,Adults,25.026,24.413,22.332,20.376,18.792,14.849,15.079,15.006,14.439,12.456,11.359
 Norway,Unemployment rate by sex and age,Male,25+,Adults,2.922,3.577,4.262,3.562,3.079,3.033,3.621,3.292,2.157,2.533,2.617
-Palestinian Territories,Unemployment rate by sex and age,Male,25+,Adults,14.085,15.385,15.868,16.334,17.476,17.043,18.443,17.955,16.772,,4.604744254
+Palestinian Territories,Unemployment rate by sex and age,Male,25+,Adults,14.085,15.385,15.868,16.334,17.476,17.043,18.443,17.955,16.772,0,4.604744254
 Oman,Unemployment rate by sex and age,Male,25+,Adults,0.788,0.736,0.653,0.5,0.346,0.403,0.624,0.46,0.345,0.293,4.598103681
 Pakistan,Unemployment rate by sex and age,Male,25+,Adults,0.98,1.848,1.088,1.82,2.542,2.665,4.617,3.921,3.515,3.534,4.591463108
 Panama,Unemployment rate by sex and age,Male,25+,Adults,2.24,2.54,2.76,2.84,2.87,3.45,7.901,8.16,5.13,4.698,4.584822535
@@ -175,7 +175,7 @@ Tunisia,Unemployment rate by sex and age,Male,25+,Adults,7.722,9.379,9.332,9.354
 Turkmenistan,Unemployment rate by sex and age,Male,25+,Adults,4.176,4.326,4.459,4.654,4.725,4.76,5.366,5.271,4.857,4.826,4.292637326
 Turkey,Unemployment rate by sex and age,Male,25+,Adults,7.458,7.691,8.005,7.699,7.914,10.386,10.48,9.09,7.552,6.977,4.285996753
 Uganda,Unemployment rate by sex and age,Male,25+,Adults,1.37,1.568,1.761,2.068,1.956,1.831,2.595,2.368,1.895,1.809,4.27935618
-Ukraine,Unemployment rate by sex and age,Male,25+,Adults,9.524,8.843,9.617,10.301,9.442,7.882,9.073,8.933,,,4.272715608
+Ukraine,Unemployment rate by sex and age,Male,25+,Adults,9.524,8.843,9.617,10.301,9.442,7.882,9.073,8.933,0,0,4.272715608
 United Arab Emirates,Unemployment rate by sex and age,Male,25+,Adults,0.912,0.791,0.687,0.855,0.93,1.068,3.3,1.927,1.958,1.871,4.266075035
 United Kingdom,Unemployment rate by sex and age,Male,25+,Adults,4.372,3.76,3.419,3.092,2.858,2.643,3.328,3.865,2.655,3.181,4.259434462
 United States of America,Unemployment rate by sex and age,Male,25+,Adults,4.988,4.253,3.973,3.53,3.155,2.912,6.794,4.739,2.952,3.063,4.252793889
